@@ -1,5 +1,4 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hirpha&theme=dark)](https://git.io/streak-stats)
 
 ### Hi there 👋, I'm Hirpha Fayisa
 I'm an experienced Flutter developer with over 3 years of experience in building high-performance mobile applications. I love working on innovative projects that involve emerging technologies like AI, IoT, and mobile app development.
