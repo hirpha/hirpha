@@ -15,6 +15,6 @@ I'm an experienced Flutter developer with over 3 years of experience in building
 
 
 ### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/hirpha-fayisa-072051186/)
+- [LinkedIn](https://linkedin.com/in/hirpha-fayisa-072051186/)
 - [Twitter](https://twitter.com/hirpha)
 ![Hirpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirpha-Fayisa&show_icons=true)
