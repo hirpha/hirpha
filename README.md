@@ -24,5 +24,3 @@ I'm a Flutter developer with over 3 years of experience in building high-perform
 
 ---
 
-### 📊 GitHub Stats  
-![Hirpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirpha-Fayisa&show_icons=true&theme=radical)  
